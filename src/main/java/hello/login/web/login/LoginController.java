@@ -41,6 +41,6 @@ public class LoginController {
 
         // 로그인 성공 처리 TODO
 
-        return "rediect:/";
+        return "redirect:/";
     }
 }
